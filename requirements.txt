@@ -1,0 +1,15 @@
+pandas
+numpy
+transformers
+langchain
+openai
+anthropic
+accelerate
+bitsandbytes
+pytorch
+nltk
+readability
+tqdm
+peft
+evaluate
+scipy
