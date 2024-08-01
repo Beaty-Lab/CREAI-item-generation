@@ -5,6 +5,7 @@ Increasingly, large language models (LLMs) are being used to automate workplace 
 
 ## Repository Description
 Contains code and data for reproducing our results from our CREAI paper.
+All items and item responses from our experiments can be found [here](https://drive.google.com/drive/folders/14Akdt-FLQJIzL2ytDucKw18TMo-r3hbu?usp=sharing)
 ## Setup
 ### Requirements
 1. Python 3.x, we reccomend the latest version from Anaconda.
